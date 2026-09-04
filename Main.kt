@@ -18,8 +18,8 @@ fun main() {
         print("Seleccione una opción: ")
 
         try {
-            val entrada = readlnOrNull()
-            opcion = entrada?.toIntOrNull() ?: throw NumberFormatException("Entrada no numérica")
+            val entrada = readlnOrNull() ?: break
+            opcion = entrada.toIntOrNull() ?: throw NumberFormatException("Entrada no numérica")
 
             when (opcion) {
                 1 -> {
