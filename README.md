@@ -153,11 +153,8 @@ El sistema cuenta con las siguientes opciones:
 
 ## Integrantes del proyecto
 
-- Nombre integrante 1
-- Nombre integrante 2
-- Nombre integrante 3
-- Nombre integrante 4
-- Nombre integrante 5
+- Kevin Arturo Vaquerano Morales VM223215
+- Hayzel Evelyn González Gutiérrez GG240801
 
 
 ## Estado del proyecto
